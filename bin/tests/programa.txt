@@ -1,0 +1,11 @@
+class test { 
+int x; 
+boolean y;
+float z;
+x = 5; 
+y = true;
+z = 10.1;
+while (x > 0) {  
+x = x - 1; 
+} 
+}
